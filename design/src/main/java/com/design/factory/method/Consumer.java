@@ -4,6 +4,8 @@ import com.design.factory.simple.Car;
 
 /**
  * 工厂方法模式
+ *
+ * @author chf
  */
 public class Consumer {
     public static void main(String[] args) {
